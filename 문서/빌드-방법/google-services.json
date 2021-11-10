@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654168444554",
+    "project_id": "olivingcoin-android-wall-b3be1",
+    "storage_bucket": "olivingcoin-android-wall-b3be1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654168444554:android:12247891dbdcaf955da773",
+        "android_client_info": {
+          "package_name": "com.loafwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654168444554-p1ksjblbi1forlh8gs4obi440hn6giv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Hi-FByAQ0hH5vkNETbYyMAOQo4CDwx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654168444554-p1ksjblbi1forlh8gs4obi440hn6giv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
